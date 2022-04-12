@@ -1,0 +1,66 @@
+Etiquetas : <html> <p> (parrafo) br : salto de linea 
+
+
+<meta> 
+Comandos Básicos
+
+< HTML > ... < /HTML > : Indica el comienzo y fin de un archivo HTML
+< HEAD > ... < /HEAD > : Indica el comienzo y fin de un encabezado (aquí se coloca generalmente el título).
+< TITLE > ... < /TITLE > : Indica el título.
+< BODY > ... < /BODY > : Indica el comienzo y fin del cuerpo de la página.
+< P > ... < /P > : Indica comienzo y fin de un párrafo.
+< BR > : Permite saltarse una línea (se llama quiebre de línea).
+< Hn > ... < Hn > : Para n entre 1 y 6, hacen que el texto encerrado aparezca como encabezado (un subtítulo). Se recomienda usar sólo 1,2 y 3.
+Tipos de letras:
+< B > ... < /B > : Negrita.
+< L > ... < /L > : Cursiva.
+< BLINK > ... < /BLINK > : Parpadeante.
+< STRONG > ... < /STRONG > : Enfatizada.
+< UL > ... < /UL > : Indica comienzo y fin de una lista no ordenada (puntos). Dentro de ellos, cada item empieza por < LI > y termina al terminar la línea.
+< OL > ... < /OL > : Indica comienzo y fin de una lista ordenada (números). Dentro de ellos, cada item empieza por < LI > y termina al terminar la línea.
+Ejemplo:
+      < OL >
+        < LI > Primer item
+        < LI > Segundo item
+        < UL > 
+          < LI > Primer subitem
+          < LI > Segundo subitem
+        < /UL >
+        < LI > Tercer item
+      < /OL >
+
+
+
+"/"  cierre de etiqueta 
+
+
+
+IMAGENES 
+
+
+
+< img src=archivo.{gif,jpg}	Nombre del archivo
+width=	Ancho del archivo(en puntos
+height=	Altura del archivos (en puntos)
+align=	Alineación de la imagen y textos (ver más abajo)
+border=	Ancho del borde de la imagen
+
+
+
+Referencias
+Existen tres tipos principales de referencias a otros textos:
+Referencias a otras páginas:
+<a href="otra_pagina.html" >Ir a otra pagina </a>
+Se ve como:
+Ir a otra pagina
+Basta presionar sobre el texto subrayado (y generalmente en otro color) para ir a la otra página
+
+Referencias a temas:
+<a href="#tema" >Ir a otro tema </a>
+Si se presiona sobre el texto subrayado se va a otra parte de la misma página, que se marcó con la instrucción <a name="tema">.
+Por ejemplo:
+Ir a gráficos
+También es posible ir a un tema específico en otra página.
+
+Referencia a otros objetos:
+También es posible referenciar otro tipo de objetos (animaciones, dibujos en otros formatos, audio,etc.). El resultado dependerá de la configuración del browser. La idea es tener asociado a la terminación del archivo, un programa externo que permita ver dicho archivo. Por ejemplo, si es un archivo de audio con terminación .au, el browser sabe que tiene que ejecutar un programa para escuchar audio, que soporte ese formato.

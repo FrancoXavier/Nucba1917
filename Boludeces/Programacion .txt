@@ -1,0 +1,68 @@
+
+Portafolios virtuales : github : dribul : liked 
+
+Fronted  
+Html (encargado de generar la estructura de la web ), css( estilo de la web), sass (interacciones de la web)  , Java scrip 
+
+Backend 
+js node express 
+
+VsCode ( editor de texto )
+
+
+
+
+
+
+
+
+
+Clase 2 
+html- aprender  
+css: aprender 
+
+head : encabesado //
+
+Div : no tienen significado semantico , podes repetir y poner cualquier cosa 
+
+git istalar 
+
+
+
+CLASE 3 
+
+ : git , es un gestor de repositorios , permite compartir codigo y trabajar en equipo 
+son 2 tipos de git local/nueve 
+
+git hace fotos del codigo y con esas fotos compara los codigos 
+
+Local: cmd : cd - linea de comandos - --version ( para saber si esta istalado git ) 
+
+git funciona a base de la simbologia del sistenma 
+
+git add_ para subir una foto del codigo 1          
+Git commit -m ( la m indica el mensaje siguiente) 2
+Git:git push -para subirlo 3
+
+Los pasos de arriba para subir el codigo 
+
+git pull-  te trae el codigo actualizado 
+Git status_ para ver la info de la foto tomada 
+Git Log_ trae la lista de comis info de los usuarios 
+git clone - te hace un nuevo archivo 
+para empezar de nuevo los pasos de git solo hay que eliminar la carpeta oculta en la carpeta creada 
+
+
+Gid bash lo mismo que gid pero con colorcitos <3 
+
+
+
+
+Clase 4 
+
+vercel : https://vercel.com/ te permite hostear tu sitio web ( proyecto ) para que todos lo vean 
+
+css: hoja de estilo de cascala ( definis color funete tipo de letra , todo lo que es apariencia) 
+
+
+ 
